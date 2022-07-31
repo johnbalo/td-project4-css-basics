@@ -1,0 +1,187 @@
+
+body{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ margin:0px;
+padding:0px;
+}
+
+.nav-bar{
+width:100%;
+font-size:20px;
+display:block;
+height:auto;
+}
+
+.nav{
+list-style-type:none;
+margin:0;
+padding:0;
+overflow:hidden;
+background-color:#0492c2;
+width:100%;
+}
+
+.nav li{
+float:right;
+}
+
+
+.nav li a{
+display:block;
+color:white;
+text-align:center;
+padding:14px 16px;
+text-decoration:none;
+}
+
+li a:hover{
+background-color:lightgreen;
+}
+
+    .profile{
+
+        height: 250px;
+    
+        width: 100%;
+
+        text-align: center;
+
+        padding: 5% 0% 5% 0%;
+    }
+
+    .profile h2{ 
+        color: #0492c2;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size:30px;
+
+    }
+
+
+#image{
+    width: 150px; height:150px; border-radius:100% ; 
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    margin-left: 40%;
+    margin-top: -20px;
+    
+
+    
+}
+    
+
+#ss{
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+    
+.content{
+    
+        background-color: #0492c2;
+    
+        width: 100%;
+    
+        display: flex;
+
+        color:white;
+    
+    }
+    
+    .right{
+    
+        width: 50%;
+    
+        height: auto;
+    
+        padding: 5% 5% 5% 9%;
+    
+    }
+    
+    .left{
+    
+        width: 50%;
+    
+        height: auto;
+    
+        padding: 5% 5% 5% 9%;
+    
+    }
+    
+    
+    
+ .services{
+    
+    background-color: aliceblue;
+
+    padding: 3% 2% 2% 3%;
+
+    border-radius: 15px;
+
+    color: #0492c2;
+    
+    } 
+
+    .services h3{
+        font-size: 20px;
+    }
+
+     .service-content{
+        display: flex;
+        padding: 3% 3% 3% 3%;
+        justify-content: space-between;
+        text-align: center;
+     }
+     .col-1{
+        width: 20%;
+        padding: 3% 3% 3% 3%;
+        border-radius: 7px;
+        background-color:#8DA399 ;
+        color: white;
+        }
+    .col-2{
+        width: 20%;
+        padding: 3% 3% 3% 3%;
+        border-radius: 7px;
+        background-color:#8DA399;
+        color: white;
+    }
+    .col-3{
+        width: 20%;
+        padding: 3% 3% 3% 3%;
+        border-radius: 7px;
+        background-color:#8DA399 ;
+        color: white;
+}
+
+.footer{
+    width: 100%;
+    background-color:#0492c2;
+    height: 200px;
+    padding: 5% 0% 5% 0%;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    
+}
+
+    .footer a{text-decoration: none;
+
+    }
+
+    #social-media img {
+    width: 30px; height:20px;
+    padding-bottom: 20px;
+    margin: 5px;
+    
+    
+
+    }
+    
+
+
+
+
