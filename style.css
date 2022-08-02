@@ -61,7 +61,7 @@ background-color:lightgreen;
     width: 150px; height:150px; border-radius:100% ; 
 }
 
-ul{
+. profile ul{
     display: flex;
     list-style-type: none;
     margin-left: 40%;
